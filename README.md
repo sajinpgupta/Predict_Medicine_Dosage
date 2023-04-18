@@ -35,4 +35,4 @@ This repository is licensed under the MIT License, which means that you are free
 This project was developed by Sajin Payandath and Machupalli Sree Pragna as part of a research project]. The code and ideas in this repository may have been inspired by other open-source projects, tutorials, or resources, and appropriate credits and references have been provided in the notebook. We acknowledge the contributions of the open-source community to the development of this project.
 
 # Contact Information
-If you have any questions, suggestions, or feedback, please feel free to contact [Your Name] at [Your Email Address]. Thank you for your interest in this project!
+If you have any questions, suggestions, or feedback, please feel free to contact Sajin Payandath at payandath.sajin@gmail.com. Thank you for your interest in this project!
